@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import time
 
-KAKAO_TOKEN = "vMdDy7JhDwB-vcvODvXzeKx4yAOJP8MSbU48nQopyV4AAAFwCrQMSw"
+KAKAO_TOKEN = ""
 '''
 curl -v -X POST "https://kapi.kakao.com/v2/api/talk/memo/default/send" \
     -H "Authorization: Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" \
