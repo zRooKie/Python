@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 # python_zbot
-TELEGRAM_TOKEN = "1008187595:AAGL02LaLikb01ongTvYCHXECuazHXSjbpM"
+TELEGRAM_TOKEN = ""
 
     
 def handler(msg):
